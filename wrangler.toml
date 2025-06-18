@@ -1,3 +1,4 @@
 name = "github-readme-activity-graph"
 main = "src/main.ts"
+compatibility_flags = [ "nodejs_compat" ]
 compatibility_date = "2025-06-01"
